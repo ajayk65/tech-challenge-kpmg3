@@ -6,7 +6,7 @@ Prerequisite :- You should have python (greater than 3.7) installed on your mach
 
 py test.py \<param1\> \<param2\>
 
-param1 is object, while param2 is key.
+\<param1\> is object, while  \<param2\> is key.
 
 E.g. Pass param1 as  {“a”:{“b”:{“c”:”d”}}} as an object  AND
           param2 as a/b/c as a key.  
